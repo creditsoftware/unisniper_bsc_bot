@@ -1,0 +1,15 @@
+JSON_RPC=
+
+# Credentials for connecting to BLOXROUTE
+WS_BLOXROUTE=
+ENTERPRISE_BLOXROUTE=
+
+# Add wallets that the bot will use for the transactions
+
+WALLET_ADDRESS=
+    
+PRIVATE_KEY=
+
+# Telegram bot
+
+BOT_TOKEN =
